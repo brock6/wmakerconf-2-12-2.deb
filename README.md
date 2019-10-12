@@ -14,7 +14,12 @@ Thus, in your debian system, you must either somehow figure out how to install l
 
 ```
 sudo ln -s /usr/lib/x86_64-linux-gnu/libwraster.so.6.0.0 /usr/lib/x86_64-linux-gnu/libwraster.so.3
+```
 
+Install with:
+
+```
+sudo dpkg -i wmakerconf-2-12-2.deb
 ```
 
 This is a dirty hack, but it works on my system. It may break yours, so this project comes with no guarantees or warranty.
