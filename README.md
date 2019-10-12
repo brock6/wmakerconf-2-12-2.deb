@@ -1,6 +1,6 @@
 # wmakerconf-2-12-2.deb
 
-wmakerconf is a GTK+ based configuration tool for Window Maker
+[[wmakerconf]](https://sourceforge.net/projects/wmakerconf/) is a GTK+ based configuration tool for Window Maker
  Interactive graphical configuration utility for Window Maker. It
  permits configuration of Window Maker using a mouse driven point and
  click interface, avoiding direct manual editing of its configuration
