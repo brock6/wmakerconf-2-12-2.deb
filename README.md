@@ -21,7 +21,7 @@ sudo ln -s /usr/lib/x86_64-linux-gnu/libwraster.so.6.0.0 /usr/lib/x86_64-linux-g
 Download the attached files. Install with:
 
 ```
-sudo dpkt -i wmakerconf-data_2.12-1_all.deb && sudo dpkg -i wmakerconf-2-12-2.deb
+sudo dpkg -i wmakerconf-data_2.12-1_all.deb && sudo dpkg -i wmakerconf-2-12-2.deb
 ```
 
 This is a dirty hack, but it works on my system. It may break yours, so this project comes with no guarantees or warranty.
